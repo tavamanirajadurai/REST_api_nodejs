@@ -1,0 +1,25 @@
+﻿[
+	{
+		"user":"ben",
+		"bank": "State Bank of india",
+		"accno": 9027841242,
+		"bal": 300000
+		
+	},
+	{
+		"user":"george",
+		"bank": "esaf bank",
+		"accno": 9027841241,
+		"bal": 2000
+		
+	},
+	{
+		"user":"john",
+		"bank": "yes bank",
+		"accno": 9027841243,
+		"bal": 10000
+		
+	}
+
+	
+]
